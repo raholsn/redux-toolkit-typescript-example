@@ -24,3 +24,7 @@
   margin-right: 5px;
   cursor: pointer;
 }
+
+.cardEditDescription {
+  width: 255px;
+}
