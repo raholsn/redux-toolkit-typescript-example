@@ -1,0 +1,26 @@
+.card {
+  border: 1px solid gray;
+  width: 290px;
+  margin-top: 10px;
+  word-wrap: break-word;
+}
+
+.cardTitleContainer {
+  display: flex;
+  border-bottom: 1px solid gray;
+  background-color: #efefef;
+}
+
+.cardTitle {
+  flex: 2;
+  text-align: center;
+}
+
+.cardMessage {
+  margin: 20px;
+}
+
+.cardTitleAttributes {
+  margin-right: 5px;
+  cursor: pointer;
+}
