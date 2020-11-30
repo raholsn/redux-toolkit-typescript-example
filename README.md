@@ -2,6 +2,6 @@
 
 Playing around with TypeScript and Redux Toolkit
 
-- Files grouped by feature
+- Files/Folders grouped by feature
 - Yes.. there are tests missing
 
